@@ -4,6 +4,8 @@ A facial recognition system is a technology capable of identifying or verifying 
 First check the requirements.txt
 Than,
 1.python datasetgen.py
+
 2.python trainer.py
+
 3.python detector.py
 
