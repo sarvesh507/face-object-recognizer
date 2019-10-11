@@ -3,7 +3,7 @@ import os
 
 path = os.path.dirname(os.path.abspath(__file__))
 cam = cv2.VideoCapture(0)
-detector=cv2.CascadeClassifier('/usr/local/lib/python3.6/dist-packages/cv2/data/Classifiers/face.xml')
+detector=cv2.CascadeClassifier('/usr/local/lib/python3.6/dist-packages/cv2/data/Classifiers/face.xml')#yours face.xml file path
 i=0
 offset=50
 name=input('enter your id=')

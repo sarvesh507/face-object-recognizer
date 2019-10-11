@@ -1,0 +1,6 @@
+python3.6 and higher
+opencv-python
+opencv-contrib-python
+pillow
+
+
